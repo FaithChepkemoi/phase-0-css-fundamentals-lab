@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  align-content: center;
+}
+nav{
+  align-content: center;
+}
+#featured-property{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+#featured-property p{
+  text-align: center;
+}
+#details {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height:auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+p{
+  text-align: center;
+}
